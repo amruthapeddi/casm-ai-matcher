@@ -19,7 +19,3 @@ CASM is an AI-powered recruiter screening assistant built using Streamlit and th
 
 ---
 
-## 📦 Local Installation & Setup
-
-Follow these steps to get a local copy of CASM up and running on your computer:
-
