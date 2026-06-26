@@ -23,7 +23,3 @@ CASM is an AI-powered recruiter screening assistant built using Streamlit and th
 
 Follow these steps to get a local copy of CASM up and running on your computer:
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
